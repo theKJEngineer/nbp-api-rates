@@ -12,11 +12,15 @@ Python script that fetches and displays current currency exchange rates from the
 - [requests](https://pypi.org/project/requests/) library
 
 
-Example output:
-
+## Example output
+```text
 Tabela: 195/A/NBP/2025
 Date: 2025-09-21
 Number of currencies: 35
 USD rate: 4.12
+
+USD: 4.12  (dolar amerykański)
 EUR: 4.34  (euro)
+GBP: 5.12  (funt szterling)
+JPY: 0.027 (jen)
 ...
